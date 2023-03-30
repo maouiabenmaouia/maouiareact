@@ -57,10 +57,11 @@ function App() {
     </Container>
   </Navbar>
 
-
-      < ProfilePhoto/>
-    <FullName/>
-    <Adress />
+  <FullName/>
+  <Adress />
+      <ProfilePhoto/>
+   
+   
   
   </div>
   );

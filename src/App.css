@@ -53,5 +53,6 @@
   
 }
 .with {
-  margin:10px 100px 20px 500px ;
+  margin:10px 10px 20px 500px ;
+  text-shadow: 2px 2px red;
 }
